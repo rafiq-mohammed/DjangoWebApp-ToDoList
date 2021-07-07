@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'TodoDB',
         'USER':'postgres',
         'PASSWORD':'postgres',
-        'HOST':'localhost'
+        'HOST':'65.0.222.19'
     }
 }
 
